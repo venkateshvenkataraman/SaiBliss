@@ -1,3 +1,5 @@
+Privacy Policy
+
 Welcome to the Sai Bliss app privacy policy for Android!.
 This is a project developed by Venkatesh Venkataraman.
 
